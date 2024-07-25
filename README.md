@@ -58,4 +58,30 @@ The following visualizations were created to support the analysis:
 
 ## Conclusion
 
-This analysis provides valuable insights into the usage patterns and trends of the Citi Bike program in 2020. The findings can help city officials and program administrators make informed decisions to improve the bike-sharing program and promote sustainable transportation in New York City.
+This analysis provides valuable insights into the usage patterns and trends of the Citi Bike program in 2020. Key findings include:
+
+1.  **Total Trips per Month**:
+    
+    -   There were significant variations in the total number of trips across the analyzed months. Sep had the highest number of trips, indicating peak usage during the summer.
+    
+2.  **Ridership Growth and Trends**:
+    
+    -   Ridership showed a steady increase from June to Sep, followed by a decline towards December, likely due to seasonal factors.
+
+3.  **Peak Usage Hours**:
+    
+    -   Peak usage hours were typically in the morning and evening, correlating with commuter traffic. However, during summer months, midday peaks were also observed.
+
+4.  **Top and Bottom Stations**:
+    
+    -   The top stations for starting and ending journeys were concentrated in high-traffic areas such as business districts and tourist attractions. Conversely, the bottom stations were located in less densely populated areas.
+
+5.  **User Type Distribution**:
+    
+    -   The majority of users were annual subscribers, but there was a noticeable increase in short-term customers during the summer months.
+
+6.  **Average Trip Duration**:
+    
+    -   Annual subscribers had shorter average trip durations compared to short-term customers, suggesting that subscribers used bikes for commuting, while short-term customers used them for leisurely rides.
+
+These insights can help city officials and program administrators make informed decisions to improve the bike-sharing program and promote sustainable transportation in New York City. By understanding usage patterns and trends, the program can be optimized to better serve the needs of its users.
